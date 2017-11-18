@@ -1,1 +1,4 @@
-main.cpp -> first commit.
+int main()
+{
+	return 0;
+}
